@@ -1,0 +1,5 @@
+n = int(input())
+nums = list(map(int, input().split()))
+total = sum(range(1, n + 1))
+played = sum(nums)
+print(total - played)
