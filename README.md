@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -23,6 +24,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -47,9 +49,11 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 <!---LeetCode Topics End-->
