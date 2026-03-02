@@ -1,0 +1,12 @@
+from collections import Counter
+
+class Solution:
+    def isSubset(self, a, b):
+        countA = Counter(a)
+        countB = Counter(b)
+        
+        for num in countB:
+            if countB[num] > countA[num]:
+                return False
+        
+        return True
