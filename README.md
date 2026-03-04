@@ -78,4 +78,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
