@@ -120,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
