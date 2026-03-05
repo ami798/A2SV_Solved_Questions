@@ -2,7 +2,7 @@
 
 **Difficulty:** Medium
 
-**Problem:** [Integer-to-Roman](https://leetcode.com/problems/integer-to-roman/)
+**Problem:** [Integer-to-Roman](https://leetcode.com/problems/integer-to-roman/description/)
 
 ---
 
