@@ -22,6 +22,7 @@
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
