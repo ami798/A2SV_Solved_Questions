@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
@@ -123,6 +124,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -159,5 +161,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
