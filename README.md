@@ -24,6 +24,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -116,6 +117,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [2671-frequency-tracker](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@
 | [0206-reverse-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +167,16 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
