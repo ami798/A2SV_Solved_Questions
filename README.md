@@ -37,6 +37,7 @@
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -55,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -104,6 +106,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
