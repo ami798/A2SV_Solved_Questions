@@ -44,6 +44,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Trie
@@ -71,6 +72,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2671-frequency-tracker](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
 ## Prefix Sum
@@ -120,6 +122,7 @@
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
