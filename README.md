@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
