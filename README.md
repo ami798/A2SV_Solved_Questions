@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -189,6 +190,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
+| [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -198,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
