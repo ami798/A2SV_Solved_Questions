@@ -56,6 +56,7 @@
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2671-frequency-tracker](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
