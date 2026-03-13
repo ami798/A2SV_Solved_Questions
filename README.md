@@ -56,6 +56,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
@@ -233,6 +234,7 @@
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
