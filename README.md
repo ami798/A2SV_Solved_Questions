@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -86,6 +87,7 @@
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -138,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -152,6 +155,7 @@
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -243,6 +247,7 @@
 | [0011-container-with-most-water](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
