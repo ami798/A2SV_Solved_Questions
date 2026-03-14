@@ -29,6 +29,7 @@
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
