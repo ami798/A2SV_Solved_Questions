@@ -40,6 +40,7 @@
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -110,6 +111,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2671-frequency-tracker](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
@@ -168,6 +170,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 ## Counting
@@ -319,4 +322,8 @@
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
