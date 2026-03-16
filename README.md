@@ -218,12 +218,14 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +304,7 @@
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
