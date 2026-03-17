@@ -145,6 +145,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## Binary Search
@@ -225,6 +226,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
