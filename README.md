@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
