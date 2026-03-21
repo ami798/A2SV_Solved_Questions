@@ -54,6 +54,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## String
