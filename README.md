@@ -23,6 +23,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -146,6 +147,7 @@
 | [0050-powx-n](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -231,6 +233,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
@@ -242,6 +245,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +367,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
