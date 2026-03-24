@@ -378,4 +378,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
