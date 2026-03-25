@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0228-summary-ranges/) | Easy |
@@ -250,6 +251,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
