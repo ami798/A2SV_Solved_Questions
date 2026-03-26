@@ -38,6 +38,7 @@
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -119,6 +120,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -254,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -374,6 +377,7 @@
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +389,7 @@
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
