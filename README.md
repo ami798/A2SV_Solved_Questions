@@ -74,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -409,10 +410,12 @@
 | [0046-permutations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
