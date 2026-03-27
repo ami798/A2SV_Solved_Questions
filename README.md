@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -103,6 +104,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -259,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
@@ -380,6 +383,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -394,6 +398,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
