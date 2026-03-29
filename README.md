@@ -384,6 +384,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -395,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -405,6 +407,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -432,6 +435,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Merge Sort
