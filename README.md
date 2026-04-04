@@ -42,6 +42,7 @@
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -187,6 +188,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
