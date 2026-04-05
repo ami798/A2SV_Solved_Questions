@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0275-h-index-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -184,6 +185,7 @@
 | [0035-search-insert-position](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0275-h-index-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
