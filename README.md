@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -281,6 +282,7 @@
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
@@ -342,6 +344,7 @@
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
@@ -363,6 +366,7 @@
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
@@ -408,6 +412,7 @@
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -433,6 +438,7 @@
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
