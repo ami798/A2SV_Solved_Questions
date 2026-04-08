@@ -1,0 +1,45 @@
+from typing import List
+
+class Solution:
+    def countSmaller(self, nums: List[int]) -> List[int]:
+
+        n = len(nums)
+        count = [0] * n   
+        arr = [(nums[i], i) for i in range(n)]
+
+        def merge_sort(arr):
+            if len(arr) <= 1:
+                return arr
+            
+            mid = len(arr) // 2
+            left = merge_sort(arr[:mid])
+            right = merge_sort(arr[mid:])
+            
+            merged = []
+            i = j = 0
+            smaller_from_right = 0
+            
+            while i < len(left) and j < len(right):
+            
+                if left[i][0] <= right[j][0]:   
+                    count[left[i][1]] += smaller_from_right
+                    merged.append(left[i])
+                    i += 1
+                else:
+                    smaller_from_right += 1
+                    merged.append(right[j])
+                    j += 1
+            
+            while i < len(left):
+                count[left[i][1]] += smaller_from_right
+                merged.append(left[i])
+                i += 1
+
+            while j < len(right):
+                merged.append(right[j])
+                j += 1
+            
+            return merged
+        
+        merge_sort(arr)
+        return count
