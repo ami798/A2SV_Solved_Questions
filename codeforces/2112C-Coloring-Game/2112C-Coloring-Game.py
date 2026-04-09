@@ -21,6 +21,6 @@ for _ in range(t):
                 ans += j - i
                 j -= 1
             else:
-                i += 1
+                i +=1
     
     print(ans)
