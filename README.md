@@ -71,6 +71,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -321,6 +322,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
