@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
@@ -184,6 +185,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0202-happy-number/) | Easy |
@@ -274,6 +276,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
