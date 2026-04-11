@@ -98,6 +98,7 @@
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
@@ -190,6 +191,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -350,6 +352,7 @@
 | [0860-lemonade-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
