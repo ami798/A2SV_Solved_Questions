@@ -71,6 +71,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -283,6 +284,7 @@
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
