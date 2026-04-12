@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
+| [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
@@ -94,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
+| [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -237,6 +239,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
@@ -366,6 +369,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
