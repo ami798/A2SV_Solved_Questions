@@ -70,6 +70,7 @@
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -200,6 +201,7 @@
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -248,6 +250,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -369,6 +372,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -506,6 +510,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
