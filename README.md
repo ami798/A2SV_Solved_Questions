@@ -41,6 +41,7 @@
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0498-diagonal-traverse](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -293,6 +294,7 @@
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0498-diagonal-traverse](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0661-image-smoother/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
@@ -351,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
+| [0498-diagonal-traverse](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0885-spiral-matrix-iii/) | Medium |
