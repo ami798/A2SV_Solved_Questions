@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -409,6 +410,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -433,6 +435,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
