@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -237,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -543,6 +545,7 @@
 | [0046-permutations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
