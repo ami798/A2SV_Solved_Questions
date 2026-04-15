@@ -51,6 +51,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0641-design-circular-deque](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0661-image-smoother](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0661-image-smoother/) | Easy |
 | [0704-binary-search](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
@@ -165,6 +166,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
@@ -250,6 +252,7 @@
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -269,6 +272,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
