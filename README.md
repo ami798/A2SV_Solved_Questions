@@ -79,6 +79,7 @@
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1528-shuffle-string/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -239,6 +240,7 @@
 | [0875-koko-eating-bananas](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -272,6 +274,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
