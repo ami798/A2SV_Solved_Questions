@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
@@ -225,6 +226,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
@@ -305,6 +307,7 @@
 | [0048-rotate-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0498-diagonal-traverse](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0661-image-smoother/) | Easy |
