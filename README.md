@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -235,6 +236,7 @@
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -251,6 +253,7 @@
 | [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
@@ -421,6 +424,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
