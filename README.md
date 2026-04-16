@@ -70,6 +70,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
@@ -285,6 +286,7 @@
 | [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+| [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -417,6 +419,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
@@ -437,6 +440,7 @@
 | [0475-heaters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
+| [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
