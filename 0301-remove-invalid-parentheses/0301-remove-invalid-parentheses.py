@@ -6,8 +6,7 @@ class Solution:
         k = ')'
         ex_close = 0
         ex_open = 0
-        o = s.count('(')
-        c = s.count(')')
+       
         for i in range(len(s)):
             if s[i] == f:
                 stack.append(f)
