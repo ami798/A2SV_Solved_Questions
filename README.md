@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0164-maximum-gap](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -272,6 +273,7 @@
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -507,6 +509,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
@@ -613,6 +616,7 @@
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
