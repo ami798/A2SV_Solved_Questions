@@ -91,6 +91,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -253,6 +254,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -519,6 +522,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +605,7 @@
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,10 +627,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
