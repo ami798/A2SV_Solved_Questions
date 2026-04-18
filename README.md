@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
@@ -269,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -431,6 +433,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0148-sort-list/) | Medium |
