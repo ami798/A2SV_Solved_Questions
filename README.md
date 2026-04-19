@@ -99,6 +99,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -256,6 +257,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +526,7 @@
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -606,6 +610,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,11 +633,13 @@
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
