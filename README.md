@@ -559,6 +559,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,6 +604,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,4 +651,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
