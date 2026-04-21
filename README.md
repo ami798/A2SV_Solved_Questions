@@ -47,6 +47,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0456-132-pattern](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -338,6 +339,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0498-diagonal-traverse](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0661-image-smoother/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
@@ -555,6 +557,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -602,6 +605,7 @@
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
