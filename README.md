@@ -545,6 +545,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -578,6 +579,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -615,6 +617,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
