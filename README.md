@@ -554,6 +554,7 @@
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
@@ -569,6 +570,7 @@
 | [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -585,6 +587,7 @@
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Search Tree
@@ -619,6 +622,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Merge Sort
