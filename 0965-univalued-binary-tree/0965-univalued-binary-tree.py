@@ -4,18 +4,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
         val = root.val
-        queue = [root]
+        queue = deque([root])
         
             
             
                
         while queue:
-            node = queue.pop()
+            node = queue.popleft()
             if node.val != val:
                 return False
             if node.left:
