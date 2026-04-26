@@ -241,6 +241,7 @@
 | [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2469-convert-the-temperature](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
