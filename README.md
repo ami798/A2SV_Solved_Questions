@@ -579,6 +579,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -635,6 +636,7 @@
 | [0463-island-perimeter](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -686,11 +688,13 @@
 | [0128-longest-consecutive-sequence](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
