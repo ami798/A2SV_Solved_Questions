@@ -585,6 +585,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -643,6 +644,7 @@
 | [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -700,6 +702,7 @@
 | [0785-is-graph-bipartite](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -708,4 +711,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 <!---LeetCode Topics End-->
