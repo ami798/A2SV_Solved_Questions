@@ -102,6 +102,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -240,6 +241,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -588,6 +590,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -648,6 +651,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -708,6 +712,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -720,4 +725,8 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
