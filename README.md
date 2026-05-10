@@ -65,6 +65,7 @@
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0661-image-smoother](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0661-image-smoother/) | Easy |
 | [0690-employee-importance](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -134,6 +135,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +191,7 @@
 | [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -306,6 +310,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0475-heaters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0791-custom-sort-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
@@ -325,6 +330,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -525,6 +531,7 @@
 | [0239-sliding-window-maximum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -540,6 +547,7 @@
 | [0164-maximum-gap](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
