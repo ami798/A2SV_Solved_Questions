@@ -346,6 +346,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0641-design-circular-deque](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -502,6 +503,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -532,6 +534,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -577,6 +580,7 @@
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0690-employee-importance](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -618,6 +622,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -627,6 +632,7 @@
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
