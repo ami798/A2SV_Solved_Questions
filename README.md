@@ -117,6 +117,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@
 | [1649-create-sorted-array-through-instructions](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +473,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +489,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
