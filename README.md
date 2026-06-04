@@ -256,6 +256,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2469-convert-the-temperature/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +432,7 @@
 | [0322-coin-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,4 +768,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
