@@ -46,6 +46,7 @@
 | [0322-coin-change](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -550,6 +551,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
