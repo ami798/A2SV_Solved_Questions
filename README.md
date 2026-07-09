@@ -117,6 +117,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -215,6 +216,7 @@
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2671-frequency-tracker](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Prefix Sum
