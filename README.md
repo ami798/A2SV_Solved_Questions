@@ -157,6 +157,7 @@
 | [1763-longest-nice-substring](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Trie
@@ -487,6 +488,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ami798/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
@@ -505,6 +507,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0832-flipping-an-image](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0832-flipping-an-image/) | Easy |
 | [0969-pancake-sorting](https://github.com/ami798/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/ami798/A2SV_Solved_Questions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ami798/A2SV_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
